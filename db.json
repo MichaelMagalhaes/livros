@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
   "id": 1,
   "título": "Dom Quixote",
   "autor": "Miguel de Cervantes"
@@ -39,3 +41,9 @@
   "título": "O Sonho da Câmara Vermelha",
   "autor": "Cao Xueqin"
 }
+  ],
+  "profile": {
+    "name": "MichaelMagalhaes"
+  }
+}
+
