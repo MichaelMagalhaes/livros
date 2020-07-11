@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "titulo": "Dom Quixote", "autor": "Miguel de Cervantes", "imagem": "https://m.media-amazon.com/images/I/51XULadddlL.jpg" },
+    { "id": 1, "titulo": "Dom Quixote", "autor": "Miguel de Cervantes", "imagem": "https://m.media-amazon.com/images/I/51XULadddlL.jpg", "sinopse": "A história do engenhoso fidalgo Dom Quixote e de seu fiel escudeiro Sancho Pança conquista leitores geração após geração. O clássico de Miguel de Cervantes é considerado o expoente máximo da literatura espanhola e, em 2002, foi eleito por uma comissão de escritores de 54 países o melhor livro de ficção de todos os tempos. Em homenagem aos 400 anos de morte de Miguel de Cervantes, a Nova Fronteira traz ao público esta edição especial, com a obra integral em dois volumes. O texto de Cervantes é acompanhado das belíssimas ilustrações do francês Gustave Doré, um dos mais fantásticos artistas do século XIX." },
     { "id": 2, "titulo": "História em Duas Cidade", "autor": "Charles Dickens", "imagem": "https://img.travessa.com.br/livro/BA/20/20222710-a8bb-437b-b875-3ef8b49924c6.jpg" },
 	{ "id": 3, "titulo": "O Senhor dos Anéis", "autor": "J. R. R. Tolkien" },
 	{ "id": 4, "titulo": "O Pequeno Príncipe", "autor": "Antoine de Saint-Exupéry" },
